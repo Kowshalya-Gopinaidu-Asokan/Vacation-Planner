@@ -1,7 +1,7 @@
 # Vacation Planner
 
 A modern, responsive vacation planning web application built with React, TypeScript, and CSS.
-
+🌐 Live Demo: [View Vacation Planner](https://your-vacation-planner.netlify.app/)
 ## Features
 
 - **Dashboard** — Overview of upcoming trips, total budget, countdown to next trip
